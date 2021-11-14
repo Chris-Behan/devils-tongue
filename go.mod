@@ -1,3 +1,3 @@
 module github.com/Chris-Behan/devils-tongue
 
-go 1.15
+go 1.17
